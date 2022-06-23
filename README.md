@@ -1,2 +1,6 @@
-# Yudo
-[Developing] Yudo App - a mobile application for a better world
+# Yudo App - A Mobile Application for a Better World
+
+CURRENT STATUS: `DEVELOPING`
+
+- Idea created on: July 14, 2021
+- Founded on: June 22, 2022
